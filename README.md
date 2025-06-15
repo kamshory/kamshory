@@ -2,11 +2,29 @@
 
 **🚀 Kamshory, MT – PHP Developer & Open-Source Enthusiast from Indonesia**
 
-- Creator of **MagicObject** 🧱 – a PHP library for rapid entity generation.
-- Author of **ZKLibrary** – a PHP library for communicating with ZK attendance devices via UDP. :contentReference[oaicite:1]{index=1}
-- Built **MusicProductionManager** – a comprehensive tool for managing music production workflows. :contentReference[oaicite:2]{index=2}
-- Published **Lyric Editor** (formerly maintained, now succeeded by MusicProductionManager). :contentReference[oaicite:3]{index=3}
-- Passionate about music, MIDI data handling, and developer tools.
+## 🧱 Featured Projects
+
+### 🔮 [MagicObject](https://github.com/planetbiru/MagicObject)
+
+A PHP library that simplifies entity management using annotations. Ideal for rapid prototyping and integration with various frameworks.
+
+### 🧰 [MagicApp](https://github.com/planetbiru/MagicApp)
+
+A modern PHP-based starter kit with a clean and modular structure, built on top of MagicObject.
+
+### 🏗️ [MagicAppBuilder](https://github.com/planetbiru/MagicAppBuilder)
+
+A web-based GUI builder tool to help visually and quickly develop PHP entities and CRUD applications.
+
+### 🕒 [ZKLibrary](https://github.com/kamshory/ZKLibrary)
+
+A PHP library for communicating with ZKTeco attendance machines via the UDP protocol. Widely used in custom attendance systems in Indonesia.
+
+### 🎵 [MusicProductionManager](https://github.com/kamshory/MusicProductionManager)
+
+A music production management app that handles everything from ideas to mastering. Includes features for managing song data, arrangements, mixing, and more.
+
+
 
 ## 📍 Location & Contact
 
