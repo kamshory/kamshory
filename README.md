@@ -14,7 +14,7 @@ A modern PHP-based starter kit with a clean and modular structure, built on top 
 
 ### 🏗️ [MagicAppBuilder](https://github.com/planetbiru/MagicAppBuilder)
 
-A web-based GUI builder tool to help visually and quickly develop PHP entities and CRUD applications.
+Low-Code Programming Platform. A web-based GUI builder tool to help visually and quickly develop PHP entities and CRUD applications.
 
 ### 🕒 [ZKLibrary](https://github.com/kamshory/ZKLibrary)
 
