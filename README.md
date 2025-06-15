@@ -31,14 +31,6 @@ A music production management app that handles everything from ideas to masterin
 - 🌍 Based in **Indonesia**
 - 🎥 Creator of [YouTube Channel](https://www.youtube.com/channel/UCY-qziSbBmJ7iZj-cXqmcMg) :contentReference[oaicite:4]{index=4}
 
-## 📚 Pinned Projects
-
-| Project | Description |
-|---|---|
-| **MagicObject** | PHP entity generation library |
-| **ZKLibrary** | ZK Device attendance integration via UDP :contentReference[oaicite:5]{index=5} |
-| **MusicProductionManager** | Full-stack music production & collaboration tool :contentReference[oaicite:6]{index=6} |
-
 ---
 
 ## 🔧 Tech Stack
