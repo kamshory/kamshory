@@ -1,4 +1,4 @@
-# Hi there, I’m **kamshory** 👋
+# Hi there, I’m **Kamshory** 👋
 
 **🚀 Kamshory, MT – PHP Developer & Open-Source Enthusiast from Indonesia**
 
